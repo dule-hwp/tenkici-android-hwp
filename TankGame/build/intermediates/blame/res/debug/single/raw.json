@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/res/merged/debug/raw/battlefield.config",
+        "source": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/src/main/res/raw/battlefield.config"
+    },
+    {
+        "merged": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/res/merged/debug/raw/music.mp3",
+        "source": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/src/main/res/raw/music.mp3"
+    },
+    {
+        "merged": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/res/merged/debug/raw/snd_explosion1.wav",
+        "source": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/src/main/res/raw/snd_explosion1.wav"
+    },
+    {
+        "merged": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/res/merged/debug/raw/strobe.mp3",
+        "source": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/src/main/res/raw/strobe.mp3"
+    },
+    {
+        "merged": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/res/merged/debug/raw/explosion_small.wav",
+        "source": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/src/main/res/raw/explosion_small.wav"
+    },
+    {
+        "merged": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/res/merged/debug/raw/snd_explosion2.wav",
+        "source": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/src/main/res/raw/snd_explosion2.wav"
+    },
+    {
+        "merged": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/res/merged/debug/raw/game_server.conf",
+        "source": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/src/main/res/raw/game_server.conf"
+    },
+    {
+        "merged": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/res/merged/debug/raw/explosion1.wav",
+        "source": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/src/main/res/raw/explosion1.wav"
+    },
+    {
+        "merged": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/res/merged/debug/raw/explosion_large.wav",
+        "source": "/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/src/main/res/raw/explosion_large.wav"
+    }
+]

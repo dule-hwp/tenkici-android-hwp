@@ -1,0 +1,4 @@
+#Thu Sep 29 04:46:38 PDT 2016
+base.0=/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

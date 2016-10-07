@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dusan_cvetkovic/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/pre-dexed/debug/support-v4-19.1.0_6844ffd870157fc061e5bf09231c77d9b0a7f917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-19.1.0_5aae300bb2132a2d5bcad53d544594c33443a9ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="834ae7618dd49c98d6c2fa1cd5e06d8f4f8c02f9">
+        <dex dex="/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1dfdeec00d5569e99224df164107734a4136e264.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="44dd853953f91f90eddf406944c37a436866e7af">
+        <dex dex="/Users/dusan_cvetkovic/AndroidStudioProjects/TankGame/TankGame/build/intermediates/pre-dexed/debug/instant-run_8e64fd79eb3a5a7c025f2bac50a7ef7679d29c32.jar" />
+    </item>
+
+</items>
